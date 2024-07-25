@@ -4,7 +4,7 @@ Streamlit
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# mlSalaryPrediction
+# MlSalaryPrediction
 
 ## Setup
 
@@ -22,6 +22,7 @@ source ml/bin/activate
 ```
 
 ### Install Required Libraries
+RUN THIS CODE DIRECT IF YOU HAVE PYTHOM ENVIRONMENT 
 
 ```bash
 pip install streamlit matplotlib scikit-learn notebook ipython
