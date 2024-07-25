@@ -45,3 +45,7 @@ ipython kernel install --user --name=ml
 ```bash
 streamlit run app.py 
 ```
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________
+
+![Demo Image](https://github.com/yourusername/yourrepository/blob/main/Explore_page.png)
