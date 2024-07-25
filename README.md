@@ -46,6 +46,18 @@ ipython kernel install --user --name=ml
 streamlit run app.py 
 ```
 
+
+
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 
+# DEMO_PAGE
+
+## 1) Explore_page :
+
+
 ![Demo Image](https://github.com/smit012/ML-Salary-Prediction/blob/main/Explore_page.png)
+
+
+## 2) Prediction_page :
+
+![Demo Image](https://github.com/smit012/ML-Salary-Prediction/blob/main/Prediction_page.png)
