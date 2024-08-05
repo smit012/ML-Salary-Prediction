@@ -62,6 +62,12 @@ ________________________________________________________________________________
 ![Demo Image](https://github.com/smit012/ML-Salary-Prediction/blob/main/Explore_page.png)
 
 
+
+## 1) Explore_page_1 :
+
+
+![Demo Image](https://github.com/smit012/ML-Salary-Prediction/blob/main/Explore_page_1.png)
+
 ## 2) Prediction_page :
 
 ![Demo Image](https://github.com/smit012/ML-Salary-Prediction/blob/main/Prediction_page.png)
